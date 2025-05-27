@@ -7,3 +7,9 @@ else
   echo "Disk usage is under control: ${usage}%"
 fi
 
+
+
+
+
+
+Add disk usage monitor script
